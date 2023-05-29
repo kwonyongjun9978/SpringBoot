@@ -37,7 +37,7 @@ public class BoardController {
 		
 		boardDTO = new BoardDTO();
 		boardDTO.setSeq(2);
-		boardDTO.setName("이우영");
+		boardDTO.setName("왜안바껴;;");
 		boardDTO.setSubject("해윙");
 		boardDTO.setContent("ㅎㅎ");
 		boardDTO.setLogtime(new Date());
